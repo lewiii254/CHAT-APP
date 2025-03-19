@@ -1,11 +1,12 @@
 import React from 'react'
+import Sidebar from './sidebar'
 
 const Main = () => {
   return (
     <div className='flex'>
         {/* Sidebar */}
         <section>
-            <h1>Sidebar</h1>
+            <Sidebar />
         </section>
         
         {/* Chat update */}
