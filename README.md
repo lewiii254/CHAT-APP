@@ -34,3 +34,11 @@ npm install
 
 # Start the development server
 npm run dev
+```
+📡 Backend Setup
+Make sure you have Node.js installed and set up your .env file with required credentials! Then, start the backend:
+```
+cd backend
+npm install
+npm start
+```
